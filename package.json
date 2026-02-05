@@ -1,10 +1,7 @@
 {
-  "name": "portfolio-Phone-Catalog",
   "homepage": "portfolio-Phone-Catalog",
+  "name": "react-typescript-starter-pack",
   "version": "0.1.0",
-  "keywords": [],
-  "author": "Mate Academy",
-  "license": "GPL-3.0",
   "dependencies": {
     "@fortawesome/fontawesome-free": "^6.5.2",
     "bulma": "^1.0.1",
@@ -60,7 +57,6 @@
   "scripts": {
     "start": "mate-scripts start -l",
     "build": "mate-scripts build",
-    "test": "mate-scripts test -l",
     "style-format": "npx stylelint 'src/**/*.scss' --fix --allow-empty-input",
     "lint-js": "mate-scripts lint -j",
     "lint-css": "mate-scripts lint -s",
